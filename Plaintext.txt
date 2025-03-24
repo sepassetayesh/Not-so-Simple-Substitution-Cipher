@@ -1,0 +1,10 @@
+This is a sample plaintext message for testing the Not-so-Simple Substitution Cipher.  
+Programming is fun with Python, Java, and C++!  
+Cryptography makes secure communication possible.  
+HELLO WORLD becomes OLSSV DVYSK with a shift of 7.  
+Can you decrypt this message if n = 15?  
+The secret password is: ENCRYPTION123.  
+Bonus challenge: Implement AdvancedDecrypt() to crack the key!  
+The cipher is breakable via frequency analysis—common letters like 'E' leave clues!  
+Julius Caesar used a similar cipher (n=3) to protect military messages.  
+Adding a brute-force decryption function tests all 25 shifts in <1 second!  
