@@ -38,18 +38,21 @@ The implementation consists of two main functions:
 - Ensure `encrypt()` reads from `Plaintext.txt` and writes to `Ciphertext.txt`.
 - Ensure `decrypt()` reads from `Ciphertext.txt` and writes to `ExactPlaintext.txt`.
 - Experiment with different values of `n`.
-- Extend the program to handle punctuation and special characters gracefully.
-- Implement a function to brute-force all possible shifts for ciphertext decryption.
 
 ### Bonus Challenges
 1. **Advanced Decrypt Function:**
    - Implement an `AdvancedDecrypt()` function that automatically discovers `n`.
-   - It should take only two inputs: `Ciphertext.txt` and a known word from the ciphertext.
+   - It should take only `Ciphertext.txt`.
    - The function should try all possible shift values to find the correct `n`.
 
-2. **User Interface (UI) Implementation:**
+2. **User Interface:**
    - Add a graphical or command-line user interface for ease of use.
    - Provide options for users to input plaintext, choose `n`, encrypt, and decrypt files interactively.
+
+### Grading System
+- Base Project (Encryption & Decryption): **5 points**
+- Advanced Decrypt Function: **+5 points**
+- User Interface Implementation: **+5 points**
 
 ## Report Requirement
 Each student must submit a report detailing:
@@ -58,6 +61,12 @@ Each student must submit a report detailing:
 - How file handling (`Plaintext.txt`, `Ciphertext.txt`, `ExactPlaintext.txt`) is managed.
 - How they approached the bonus challenges (if attempted).
 - Any difficulties faced and how they were solved.
+
+## Submission Details
+- Students must submit their completed project files and report.
+- Send them as Cipher.YourName.zip to **sepasacademy@yahoo.com**.
+- The subject of the email should be same as zip file name.
+- The deadline for submission will be announced separately.
 
 ## Conclusion
 This exercise helps students understand the basics of cryptography, ASCII manipulation, and modular arithmetic. Try modifying the code to explore more complex ciphers!
