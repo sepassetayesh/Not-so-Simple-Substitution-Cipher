@@ -64,7 +64,7 @@ Each student must submit a report detailing:
 
 ## Submission Details
 - Students must submit their completed project files and report.
-- Send them as Cipher.YourName.zip to **sepasacademy@yahoo.com**.
+- Send them as Cipher-YourName.zip to **sepasacademy@yahoo.com**.
 - The subject of the email should be same as zip file name.
 - The deadline for submission will be announced separately.
 
